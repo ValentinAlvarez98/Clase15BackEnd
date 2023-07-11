@@ -1,0 +1,27 @@
+{
+  "name": "clase-15",
+  "version": "1.0.0",
+  "description": "Clase 15 del curso de programación backend en Coderhouse. Mongo avanzado (pt.1)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinAlvarez98/Clase15BackEnd.git"
+  },
+  "author": "Valentín Alvarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ValentinAlvarez98/Clase15BackEnd/issues"
+  },
+  "homepage": "https://github.com/ValentinAlvarez98/Clase15BackEnd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.7",
+    "mongoose": "^7.3.3",
+    "nodemon": "^3.0.1",
+    "socket.io": "^4.7.1"
+  }
+}
